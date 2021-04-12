@@ -105,6 +105,10 @@ abbr[data-original-title] {
           text-decoration-skip-ink: none;
 }
 
+.imgProject{
+  max-width:800px;
+}
+
 address {
   margin-bottom: 1rem;
   font-style: normal;
